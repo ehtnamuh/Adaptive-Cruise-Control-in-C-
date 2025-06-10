@@ -1,0 +1,10 @@
+parameter,value,unit,description
+m,1450,kg,Mass of the vehicle
+r,0.3,m,Wheel radius
+rho,1.225,kg/m^3,Air density
+Cd,0.32,,Drag coefficient
+A,2.2,m^2,Frontal area
+Cr,0.015,,Rolling resistance coefficient
+g,9.81,m/s^2,Gravity
+tau_max,370,Nm,Max engine torque
+max_torque_rate,100,Nm/s,Maximum change in torque per time step

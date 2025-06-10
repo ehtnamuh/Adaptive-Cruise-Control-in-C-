@@ -1,0 +1,11 @@
+parameter,value,description
+v_target,60,Desired speed in m/s
+v_initial,15,Initial speed in m/s
+dt,0.1,Time step
+T,500,Total simulation time
+v2_initial,30,Initial speed of vehicle 2 in m/s 
+distance,100,Distance between vehicles in meters
+sin_amplitude,0.5,Target sine wave amplitude
+sin_freq,0.02,Target sine wave frequency
+
+

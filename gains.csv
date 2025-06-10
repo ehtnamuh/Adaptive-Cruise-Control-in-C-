@@ -1,0 +1,11 @@
+parameter,value
+Kp,120.0
+Ki,3.0
+Kd,0.0
+pid_speed_control,1.0
+d_Kp,0.4
+d_Ki,0.0
+d_Kd,0.0
+time_gap,2.0
+time_gap_tolerance,1.0
+minimum_distance,10.0
